@@ -35,7 +35,7 @@
 ```bash
   Cálculo dos 256 nomes: 
 
-  log 1256 = 8
+  log 256 = 8
 
   totalizando 8 etapas até encontrar o número desejado.
 ```
