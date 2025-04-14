@@ -16,3 +16,6 @@
 * O(n * log n): algoritmo rápido de ordenação (quicksort)
 * O(n^2): algoritmo lento de ordenação (ordenação por seleção)
 * O(n!): caixeiro viajante (um algoritmo bastante lento)
+
+
+
